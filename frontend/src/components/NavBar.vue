@@ -50,7 +50,7 @@
 			  </li>
 			  <li class="nav-item"><router-link :to="{ name: 'kenneth' }" class="nav-link">Kenneth</router-link></li>
 			  <li class="nav-item"><router-link :to="{ name: 'JD' }" class="nav-link">JD</router-link></li>
-			  <li class="nav-item"><router-link to="/contact" class="nav-link">Contact</router-link></li>
+			  <li class="nav-item"><router-link to="/Ayen" class="nav-link">Ayen</router-link></li>
 			</ul>
 		  </div>
 		</div>
